@@ -1,16 +1,16 @@
 # WikiBank
 WikiBank is a new partially annotated resource for multilingual frame-semantic parsing task.
 
-## Requirements
-1. MongoDB
-2. Python
-
 ## Available Datasets
 The available datasets are for 5 languages: EN, ES, DE, FR, and IT and their are in the dataset folder.
 
 ## Procedure for creations
-
 NOTES: The space required is round 1TB, so be sure to have the required amount of space before starting the process.
+
+### Requirements
+1. MongoDB
+2. Python
+
 ### Required files
 
 1. Download Wikidata JSON dump from [here](https://www.wikidata.org/wiki/Wikidata:Database_download)
